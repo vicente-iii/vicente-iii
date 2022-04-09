@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicente-iii
-- 👀 I’m interested in data analytics, 3D modelling, and scuba diving
+- 👀 I’m interested in data analytics, 3D modelling, and blockchain
 - 🌱 I’m currently learning which direction I want to go to
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me: https://www.linkedin.com/in/vicentetangcueco3/
